@@ -38,7 +38,7 @@ CREATE TABLE IF NOT EXISTS `aus_campus` (
 
 INSERT INTO `aus_campus` (`campus_id`, `campus`, `tag`) VALUES
 (1, 'Assam University, Silchar', 'AUS'),
-(2, 'Assam University, Diphu Campus', 'AUDC');
+(2, 'Assam University, Diphu', 'AUDC');
 
 --
 -- Indexes for dumped tables
